@@ -52,7 +52,17 @@ I recommend these cheap cloud providers for your VPN server:
 ```bash
 ./wireguard-install.sh
 ```
+## CHECK [Interface] + [Peer]
+go to root directory
+```bash
+cd
+ls
+```
+if you want see [Interface] + [Peer]
 
+```bash
+cat NAMA_INTERFAE CLIENT
+```
 
 ## Discuss changes
 
