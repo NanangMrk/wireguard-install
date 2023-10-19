@@ -66,6 +66,17 @@ cat NAMA_INTERFAE CLIENT
 
 ## Discuss changes
 
+## CHECK PELANGGAN
+
+```bash
+nano /etc/wireguard/wg0.conf
+```
+## CHECK PELANGGAN AKTIF
+
+```bash
+wg
+```
+
 Please open an issue before submitting a PR if you want to discuss a change, especially if it's a big one.
 
 ### Code formatting
