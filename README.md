@@ -77,6 +77,12 @@ nano /etc/wireguard/wg0.conf
 wg
 ```
 
+## ROTING IP
+
+tambahkan ip yang ingin di routing ke allow ip misalkan
+AllowedIPs = 10.66.66.3/32, 192.168.88.1/32, 194.0.0.0/24
+
+
 Please open an issue before submitting a PR if you want to discuss a change, especially if it's a big one.
 
 ### Code formatting
